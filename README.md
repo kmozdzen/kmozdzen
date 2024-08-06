@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Jakub! 👋
 
-<!--
-**kmozdzen/kmozdzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building impactful solutions and continuous learning. Here, you'll find some of my projects and contributions.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: C#,.NET
+💼 Open to job opportunities: Yes
+📫 How to reach me: jakub.mozdzen2@gmail.com
+
+Skills
+
+Programming Languages: JavaScript, Java, C#
+Web Development: HTML, CSS, React, Spring Boot
+Databases: MySQL
+Tools & Technologies: Git, Docker
+
+Contact Me
+
+Email: jakub.mozdzen2@gmail.com
+GitHub: github.com/kmozdzen/kmozdzen
