@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 About Me
 
-🌱 Currently learning: C#,.NET
-💼 Open to job opportunities: Yes
-📫 How to reach me: jakub.mozdzen2@gmail.com
+🌱 Currently learning: C#,.NET<br>
+💼 Open to job opportunities: Yes<br>
+📫 How to reach me: jakub.mozdzen2@gmail.com<br>
 
 Skills
 
-Programming Languages: JavaScript, Java, C#
-Web Development: HTML, CSS, React, Spring Boot
-Databases: MySQL
-Tools & Technologies: Git, Docker
+Programming Languages: JavaScript, Java, C#<br>
+Web Development: HTML, CSS, React, Spring Boot<br>
+Databases: MySQL<br>
+Tools & Technologies: Git, Docker<br>
 
 Contact Me
 
-Email: jakub.mozdzen2@gmail.com
-GitHub: github.com/kmozdzen/kmozdzen
+Email: jakub.mozdzen2@gmail.com<br>
+GitHub: github.com/kmozdzen/kmozdzen<br>
