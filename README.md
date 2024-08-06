@@ -10,10 +10,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 **Skills**
 
-Programming Languages: JavaScript, Java, C#<br>
-![image](https://github.com/user-attachments/assets/6355ff08-0a71-4a21-a154-33e2742621f4)
+Programming Languages: <br> <br>
+<img src="https://github.com/user-attachments/assets/6355ff08-0a71-4a21-a154-33e2742621f4" width="150" />
+<img src="https://github.com/user-attachments/assets/dbc69911-888b-4e16-8a56-f8b37f73a9f0" width="120" />&emsp;&emsp;
+<img src="https://github.com/user-attachments/assets/df0f060b-292f-432b-8153-9f78f3868dea" width="110" />
 
-Web Development: HTML, CSS, React, Spring Boot<br>
+Web Development: <br><br>
+<img src="https://github.com/user-attachments/assets/f955d5a9-2fd0-40af-bc9f-57743d7416f7" width="120" />
+
+HTML, CSS, React, Spring Boot<br>
 Databases: MySQL<br>
 Tools & Technologies: Git, Docker<br>
 
