@@ -22,7 +22,7 @@ Web Development: <br><br>
 <img src="https://github.com/user-attachments/assets/4401848a-9468-4d4d-8c67-76d73dc631d5" width="240" />
 
 
-Programming Languages: Java, JS, C#
+Programming Languages: Java, JS, C#<br>
 Web Development: HTML, CSS, React, Spring Boot<br>
 Databases: MySQL<br>
 Tools & Technologies: Git, Docker<br>
