@@ -16,7 +16,11 @@ Programming Languages: <br> <br>
 <img src="https://github.com/user-attachments/assets/df0f060b-292f-432b-8153-9f78f3868dea" width="110" />
 
 Web Development: <br><br>
-<img src="https://github.com/user-attachments/assets/f955d5a9-2fd0-40af-bc9f-57743d7416f7" width="120" />
+<img src="https://github.com/user-attachments/assets/f955d5a9-2fd0-40af-bc9f-57743d7416f7" width="120" />&emsp;&emsp;&emsp;
+<img src="https://github.com/user-attachments/assets/1d2deeb0-d97e-4846-a5b6-f8e707657559" width="120" />&emsp;&emsp;&emsp;
+<img src="https://github.com/user-attachments/assets/fda6d995-424e-4251-968c-982e2fe9dc30" width="120" />
+<img src="https://github.com/user-attachments/assets/4401848a-9468-4d4d-8c67-76d73dc631d5" width="240" />
+
 
 HTML, CSS, React, Spring Boot<br>
 Databases: MySQL<br>
@@ -25,4 +29,4 @@ Tools & Technologies: Git, Docker<br>
 **Contact Me**
 
 Email: jakub.mozdzen2@gmail.com<br>
-GitHub: github.com/kmozdzen/kmozdzen<br>
+GitHub: github.com/kmozdzen<br>
