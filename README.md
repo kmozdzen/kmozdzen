@@ -24,7 +24,7 @@ Web Development: <br><br>
 
 Programming Languages: Java, JS, C#<br>
 Web Development: HTML, CSS, React, Spring Boot<br>
-Databases: MySQL<br>
+Databases: SQL, MySQL<br>
 Tools & Technologies: Git, Docker<br>
 
 **Contact Me**
